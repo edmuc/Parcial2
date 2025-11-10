@@ -1,5 +1,13 @@
 #1 Desarrollar un programa que determine si en una lista no existen elementos repetidos:
 
-Caso con palabra sin repetir ![Norepe.png](Norepe.png)
+#Caso con palabra sin repetir ![Norepe.png](Norepe.png)
 
-Caso con palabra repetida ![Repe.png](Repe.png)
+#Caso con palabra repetida ![Repe.png](Repe.png)
+
+
+#2 Desarrollar un programa que determine si en una lista se encuentra una cadena de caractees con dos o mas volcales. Si la cadena existe debe imprimirla si no existe debe imprimir. No existe
+
+#No existe ![No.png](No.png)
+
+
+#Existe ![Si.png](Si.png)
