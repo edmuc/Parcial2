@@ -18,3 +18,4 @@
 
 
 #4 Desarrollar un algoritmo que calcule el promedio de un arreglo de reales
+![4.png](4.png)
