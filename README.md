@@ -1,5 +1,4 @@
 #1 Desarrollar un programa que determine si en una lista no existen elementos repetidos
 Caso con palabra repetida:
-(Caso repetido.png)
+
 Caso con palabra sin repetir:
-(Caso sin repetir.png)
