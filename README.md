@@ -8,14 +8,14 @@
 ![Repetido.png](Repetido.png)
 
 
-#2 Desarrollar un programa que determine si en una lista se encuentra una cadena de caractees con dos o mas volcales. Si la cadena existe debe imprimirla si no existe debe imprimir. 
-
-*No existe  
-![No.png](No.png)
-
+#2 Desarrollar un programa que determine si en una lista se encuentra una cadena de caractees con dos o mas volcales. Si la cadena existe debe imprimirla si no existe debe imprimir no existe. 
 
 *Existe  
 ![Existe.png](Existe.png)
+
+
+*No existe  
+![No.png](No.png)
 
 
 #3 Desarrollar un programa que dadas dos listas determine que elementos tiene la primera lista que no tenga la segunda lista
