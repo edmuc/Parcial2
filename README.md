@@ -13,4 +13,5 @@
 #Existe ![Existe.png](Existe.png)
 
 #3 Desarrollar un programa que dadas dos listas determine que elementos tiene la primera lista que no tenga la segunda lista
+![xd1.png](xd1.png)
 
