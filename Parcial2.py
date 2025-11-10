@@ -11,6 +11,7 @@ else:
 
 
 
+
 #2 Desarrollar un programa que determine si en una lista se encuentra una cadena de caractees con dos o mas volcales. Si la cadena existe debe imprimirla si no existe debe imprimir. No existe
 
 lista1 = input("Ingrese los elementos de la lista separados por comas: ").split(',')
@@ -33,3 +34,30 @@ for cadena in lista1:
 
 if not encontrada:
     print("No existe")
+
+
+
+#3 Desarrollar un programa que dadas dos listas determine que elementos tiene la primera lista que no tenga la segunda lista
+
+lista1 = input("Ingrese los elementos de la lista 1 separados por comas: ").split(',')
+lista2 = input("Ingrese los elementos de la lista 2 separados por comas: ").split(',')
+
+lista1 = [x.strip() for x in lista1]
+lista2 = [x.strip() for x in lista2]
+
+resultado = set(lista1) - set(lista2)
+
+print("Elementos que están en la primera lista y no en la segunda:", resultado)
+
+
+
+#4 Desarrollar un algoritmo que calcule el promedio de un arreglo de reales
+
+entrada = input("Ingrese los números separados por comas: ")
+arreglo = [float(x) for x in entrada.split(",")]
+
+suma = sum(arreglo)
+promedio = suma / len(arreglo)
+
+print("El promedio es:", promedio)
+
