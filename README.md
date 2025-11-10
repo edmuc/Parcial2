@@ -2,6 +2,7 @@
 
 *Caso con palabra sin repetir ![Norepe.png](Norepe.png)
 
+
 *Caso con palabra repetida ![Repetido.png](Repetido.png)
 
 
