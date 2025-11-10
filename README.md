@@ -19,12 +19,14 @@
 
 
 #3 Desarrollar un programa que dadas dos listas determine que elementos tiene la primera lista que no tenga la segunda lista
+
 ![xd1.png](xd1.png)
 
 
 #4 Desarrollar un algoritmo que calcule el promedio de un arreglo de reales
+
 ![4.png](4.png)
 
 
 
-#Colab por si acaso https://colab.research.google.com/drive/1k_rQYJ0RQBIqveFKWmJMO66iVePGemVo?usp=sharing
+###Colab por si acaso https://colab.research.google.com/drive/1k_rQYJ0RQBIqveFKWmJMO66iVePGemVo?usp=sharing
